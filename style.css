@@ -1,0 +1,44 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header h1
+{
+    text-align: center;
+   margin-top: 2rem;
+}
+.form
+{
+    display: flex;
+    flex-direction: column;
+    margin:2rem;
+    width: 100%;
+    align-items: center;
+    
+}
+#title, #Description
+{
+    width: 60%;
+    padding: 0.5rem;
+}
+
+#add
+{
+    padding: 0.4rem;
+    margin-right: 2rem;
+   
+
+}
+.tab
+{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    
+}
+.butn
+{
+    display: flex;
+}
